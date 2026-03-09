@@ -1,14 +1,13 @@
 # Práctica GTK
 
 ## Datos del alumno
-Nombre:  
-Matrícula: al2202002964  
+Nombre: Ximena Contreras Herrera
+Matrícula: 2202002964  
 
 ## Materia
-Programación en C / Interfaces Gráficas
+SISTEMAS OPERATIVOS
 
 ## Descripción
-Este programa fue desarrollado en lenguaje C utilizando la librería GTK.
 
 La aplicación crea una ventana gráfica que contiene un botón interactivo.
 Cuando el usuario presiona el botón, aparece un cuadro de diálogo con un
