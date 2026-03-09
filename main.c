@@ -9,7 +9,7 @@ static void boton_presionado(GtkWidget *widget, gpointer data)
                                     GTK_DIALOG_MODAL,
                                     GTK_MESSAGE_INFO,
                                     GTK_BUTTONS_OK,
-                                    "Hola! Presionaste el boton");
+                                    "Hola! Gracias por presionar el boton");
 
     gtk_dialog_run(GTK_DIALOG(dialog));
     gtk_widget_destroy(dialog);
